@@ -1,0 +1,85 @@
+body {
+    background-image: url(/images/book-img1.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: "Dancing Script";
+    font-size: 20pt;
+}
+
+h1 {
+    text-align: center;
+    font-size: 72pt;
+    border: 2px solid black;
+    background-color: aliceblue;
+    margin: 50px 50px;
+    border-radius: 5px 5px;
+    padding: 10px 10px
+    
+}
+
+h2 {
+    border: 2px solid black;
+    border-radius: 5px 5px;
+    background-color: aliceblue;
+    padding: 10px 10px
+}
+
+figure {
+    border: 2px solid black;
+    border-radius: 5px 5px;
+    background-color: aliceblue;
+    padding: 10px 10px;
+    margin: 50px 50px;
+}
+
+figcaption {
+    text-align: right;
+}
+
+img {
+    border: 2px solid black;
+    border-radius: 5px 5px;
+}
+
+ol {
+    border: 2px solid black;
+    border-radius: 5px 5px;
+    padding: 30px 30px;
+    background-color: aliceblue;
+}
+
+.nav {
+    border: 2px solid black;
+    border-radius: 5px 5px;
+    background-color: aliceblue;
+    font-size: 30pt;
+    margin: 5pt;
+}
+
+#quotes {
+    border: 2px solid black;
+    background-color: aliceblue;
+    border-radius: 5px 5px;
+    padding: 10px 10px;
+    margin-top: 30px;
+}
+
+#quotespage {
+    background-image: url(/images/book-img2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#books {
+    background-image: url(/images/book-img3.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
